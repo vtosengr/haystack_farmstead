@@ -1,2 +1,3 @@
 # haystack_farmstead
-planning and development for farm and farm systems
+planning and development for the farm.
+
